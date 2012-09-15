@@ -1,0 +1,3 @@
+Usage:python easygitinit.py username password desired/directory/location repository-name file1,file2 
+
+As of now, you have to describe the files by their absolute location or relative to the location of the newly created directory
